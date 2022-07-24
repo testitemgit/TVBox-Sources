@@ -4,6 +4,10 @@
 // spider
 "spider":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/zy.jar",
 
+// wallpaper
+//"wallpaper":"https://qiu.moe/b723",
+"wallpaper":"https://qiu.moe/b723",
+
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
