@@ -2,6 +2,17 @@
 
 {
 "spider":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/top.jar",
+
+// wallpaper
+//"wallpaper":"https://qiu.moe/b723",
+"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/1.png",
+//"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/2.png",
+//"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/3.png",
+//"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/4.png",
+//"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/5.png",
+//"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/tree.png",
+//"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/tvbox.png",
+  
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvdGVzdGl0ZW1naXQvVFZCb3gtU291cmNlcy9tYWluL0RJWS90di90b3AudHh0"]}]}],
 
 "sites":[
