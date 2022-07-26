@@ -3,16 +3,17 @@
 {
 // spider
 "spider":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/zy.jar",
-
+  
 // wallpaper
 //"wallpaper":"https://qiu.moe/b723",
-"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/1.png",
+//"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/1.png",
 //"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/2.png",
 //"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/3.png",
 //"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/4.png",
 //"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/5.png",
 //"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/tree.png",
 //"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/tvbox.png",
+"wallpaper":"https://raw.fastgit.org/testitemgit/TVBox-Sources/main/DIY/wallpaper/catvod.png",  
   
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
